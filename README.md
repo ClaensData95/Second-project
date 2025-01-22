@@ -1,37 +1,26 @@
-# Final-Project-Statistical-Modelling-with-Python
+Final Project: Statistical Modeling with Python
+Objectives
+Utilize APIs (CityBikes, FourSquare, Yelp) to access data.
+Clean and preprocess data using Python.
+Load the prepared data into a database via Python.
+Conduct exploratory data analysis (EDA) using statistical methods and visualizations.
+Analyze data trends and patterns with statistical models.
+Build and evaluate predictive models based on the data.
+Interpret and communicate the results of the statistical analysis.
+Methodology
+Register online accounts and acquire API keys.
+Develop queries for API interaction.
+Retrieve and store data for analysis.
+Findings
+Analyze and interpret the collected data.
+Establish appropriate data storage solutions.
+Clean and organize the data for further use.
+Challenges
+Working with the Foursquare and Yelp APIs presents unique obstacles:
 
-## Project/Goals
-
-- Accessing data using APIs (CityBikes, FourSquare, Yelp)
-- Cleaning and transforming data using Python
-- Loading data into a database using Python
-- Performing EDA, including using both statistics and visualizations
-- Identifying trends and patterns in data using statistical models
-- Building a Model and further evaluation of the data.
-- Interpreting the results of the statistical models
-
-## Process
-- Create accounts online and obtain API Keys
-- Prepare queries for the APIs
-- Query and store the data for further usage
-
-## Results
-
-- Review and analyze the data
-- Create data storages
-- Clean up and store the data
-
-## Challenges 
-Integrating and using Foursquare and Yelp APIs comes with its own set of challenges.
-
-Here's a comparison of the common issues developers may face with each API:
-
-- Authentication and Rate Limits - using the services is costly
-- Data Completeness - each API has its own scope, combination of both brings more choices
-- Data Structure and Usage - complex and nested, handling pagination and response size limits
-
-## Future Goals
-
-I would choose Foursquare focusing on location-based services, venue exploration, or global coverage.
-
-I would use Yelp for detailed business reviews, ratings, and customer insights, especially in the U.S.
+Authentication and Rate Limits: Utilizing these services can incur significant costs due to restrictions and pricing models.
+Data Completeness: Each API offers specific data; combining both provides more comprehensive options.
+Data Structure and Navigation: Handling nested and complex responses, pagination, and size limits requires careful management.
+Future Directions
+Leverage Foursquare for location-based services, venue discovery, and global data coverage.
+Use Yelp for detailed business reviews, ratings, and customer insights, particularly for U.S.-based analyses.
